@@ -1,1 +1,1 @@
-# CottonDeiseasePrediction
+# CottonDiseasePrediction
